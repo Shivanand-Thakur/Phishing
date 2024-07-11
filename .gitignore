@@ -1,0 +1,5 @@
+venv
+.idea
+.vscode
+catboost_info
+__pycache__
